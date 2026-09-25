@@ -1,10 +1,8 @@
 using YukkuriMovieMaker.Generator;
 
-namespace AmbientOcclusion
-{
-    [AutoGenLocalizer]
-    partial class Texts
-    {
+namespace AmbientOcclusion;
 
-    }
+[AutoGenLocalizer]
+partial class Texts
+{
 }
